@@ -2,10 +2,13 @@
 
 This mini project is a simple Bank Management System is built using Java and all the core concepts of OOP(Object Oriented Programming)are used in it.This project is organized around various objects and well-defined interfaces. The are four pillars of OOPS which are listed below are implemented in this project.
 
-Abstraction
-Encapsulation
-Inheritance
-Polymorphism
+1.Abstraction
+
+2.Encapsulation
+
+3.Inheritance
+
+4.Polymorphism
 
 Features:
 
