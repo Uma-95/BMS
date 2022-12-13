@@ -7,7 +7,7 @@ Encapsulation
 Inheritance
 Polymorphism
 
-#Features
+Features:
 
 The user can create a bank account in various banks that are available and he/she can create a bank account.
 
